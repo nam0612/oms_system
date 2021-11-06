@@ -1,0 +1,7 @@
+durian 400
+choco 406
+coca 254
+soda 500
+vanilla 300
+orange 100
+strawberry 600

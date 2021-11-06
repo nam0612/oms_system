@@ -1,0 +1,95 @@
+
+Grand Total : 1608
+Order Placed By : nam hai
+Phone number : 943483744
+Code order : (null)
+
+Grand Total : 810
+Order Placed By : nam nguyen
+Phone number : 33843923
+Code order : 08102021225450
+
+Grand Total : 92000
+Order Placed By : nam nguyen
+Phone number : 37932442
+Code order : 16102021095859
+
+Grand Total : 3680
+Order Placed By : hai nguyen
+Phone number : 234342374
+Code order : 16102021100149
+
+Grand Total : 2208
+Order Placed By : nguyen thao
+Phone number : 73246342
+Code order : 16102021100532
+
+Grand Total : 2208
+Order Placed By : nam nuyen
+Phone number : 34726442
+Code order : 16102021110833
+
+Grand Total : 2208
+Order Placed By : ajgd asda
+Phone number : 12736123
+Code order : 16102021111033
+
+Grand Total : 2208
+Order Placed By : thao nguyen
+Phone number : 3627342
+Code order : 16102021111854
+
+Grand Total : 1840
+Order Placed By : pyta sad
+Phone number : 3467232
+Code order : 16102021112304
+
+Grand Total : 690
+Order Placed By : nam ad
+Phone number : 7929856
+Code order : 16102021113159
+
+Grand Total : 690
+Order Placed By : nam spy
+Phone number : 423287674
+Code order : 16102021113945
+
+Grand Total : 2880
+Order Placed By : Long Thang
+Phone number : 1646747372
+Code order : 28102021120305
+
+Grand Total : 7440
+Order Placed By : nam nguyen
+Phone number : 231321635
+Code order : 03112021080833
+
+Grand Total : 3120
+Order Placed By : nam nguyen
+Phone number : 372647324
+Code order : 03112021081157
+
+Grand Total : 3120
+Order Placed By : nam nguyen
+Phone number : 236217632
+Code order : 03112021081543
+
+Grand Total : 3120
+Order Placed By : long nguye
+Phone number : 63426374
+Code order : 03112021082504
+
+Grand Total : 5040
+Order Placed By : thang pham
+Phone number : 21362711
+Code order : 03112021082725
+
+Grand Total : 5040
+Order Placed By : thang phan
+Phone number : 23615313
+Code order : 03112021083103
+
+Grand Total : 2704
+Order Placed By : long nguyen
+Phone number : 265315231
+Code order : 03112021083316
